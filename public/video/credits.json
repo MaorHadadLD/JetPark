@@ -1,0 +1,28 @@
+[
+ {
+  "file": "public/video/clouds-window.webm",
+  "media": "video",
+  "poster": "public/video/clouds-window-poster.jpg",
+  "ref": "commons:50969936",
+  "title": "Clouds from Airplane Window 1 2016-08-29",
+  "creator": "F ASTILY",
+  "creatorUrl": null,
+  "date": "2016-08-29",
+  "license": "CC BY-SA 4.0",
+  "licenseCode": "by-sa",
+  "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+  "creditRequired": true,
+  "page": "https://commons.wikimedia.org/wiki/File:Clouds_from_Airplane_Window_1_2016-08-29.webm",
+  "via": "Wikimedia Commons",
+  "video": "https://upload.wikimedia.org/wikipedia/commons/transcoded/3/39/Clouds_from_Airplane_Window_1_2016-08-29.webm/Clouds_from_Airplane_Window_1_2016-08-29.webm.480p.vp9.webm",
+  "width": 854,
+  "height": 480,
+  "duration": 19.2,
+  "bytes": 768369,
+  "credit": "\"Clouds from Airplane Window 1 2016-08-29\" by F ASTILY, CC BY-SA 4.0, via Wikimedia Commons",
+  "notes": [
+   "Share-alike: an altered version (recoloured, combined with other pictures) must be shared under the same licence."
+  ],
+  "saved": "2026-10-24T16:29:45.912Z"
+ }
+]
